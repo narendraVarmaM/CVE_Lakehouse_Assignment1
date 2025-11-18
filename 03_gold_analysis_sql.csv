@@ -1,0 +1,2 @@
+report_title,total_unique_cves,total_vendors,total_products,overall_avg_cvss,critical_cves,high_risk_cves,most_recent_publication
+CVE Lakehouse Executive Summary,38773,6676,16015,6.55,1835,8195,2025-11-17T00:00:00.000Z
